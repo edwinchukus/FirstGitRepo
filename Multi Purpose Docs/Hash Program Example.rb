@@ -43,3 +43,7 @@ frequencies = frequencies.sort_by do
     |x, count| count
 end
 frequencies.reverse!
+
+
+
+Vital Ruby codes
