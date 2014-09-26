@@ -46,4 +46,4 @@ frequencies.reverse!
 
 
 
-Vital Ruby codes
+Vital Ruby codes: By EDWINCHUKUS
