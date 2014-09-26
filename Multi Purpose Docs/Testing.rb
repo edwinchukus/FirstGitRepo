@@ -10,7 +10,8 @@ end
 end 
 end 
 
-=begin
+
+
 class Edwin
 
   
@@ -26,9 +27,6 @@ def talk
 	end 
 	
   end
-
-
-=end
 
 
   
