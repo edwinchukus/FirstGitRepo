@@ -1,12 +1,9 @@
 Feature: Ruby Enrolment
 
-
-
-  Background:
-    Given that I am on the Ruby survey web site "http://nitrowriters.com/form/form.html"
    @scotland
   Scenario: Completing Ruby survey form
 
+    Given that I am on the Ruby survey web site "http://nitrowriters.com/form/form.html"
     When I complete the question Are you a big ruby fan
     And I complete the Tell me your story on getting started with Ruby
     And I answer Are you familiar with Rails
