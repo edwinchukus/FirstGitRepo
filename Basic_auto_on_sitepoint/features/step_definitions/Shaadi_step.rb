@@ -38,13 +38,12 @@ end
 
 
 And(/^Upload my document$/) do
-  @browser.file_field.set 'C:\Users\EDWIN\Downloads\Waterfall.ppt'
-  sleep 6
+  @browser.file_field.set 'C:\Dev\Projects\GitHub\Ruby survey.pdf'
+  sleep 3
 end
 
 And(/^I click submit$/) do
   @browser.button(:text =>'Submit').click
-  sleep 6
 end
 
 
